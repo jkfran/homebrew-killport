@@ -1,7 +1,7 @@
 class Killport < Formula
   desc "A command-line tool to kill processes listening on a specific port"
   homepage "https://github.com/jkfran/killport"
-  version "0.8.0"
+  version "0.9.0"
   license "MIT"
 
   on_macos do
